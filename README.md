@@ -1,4 +1,4 @@
-# Chan-Teik-Chun-s-Portfolio
+# Chan Teik Chun's Portfolio
 Assignments related to Data Science
 
 ## Project 1 : TNB Bill Calculation Form
