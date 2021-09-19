@@ -25,6 +25,6 @@ You can download the whole project in zip file **'LIFE EXPECTANCY'** that I have
 ## Project 4 : Data Visualiztion of Hotayi Sales and Purchase Data (Tableau)
 In this project, my teammates and I have collect the data provided by Hotayi Company, which contains their purchase data, vendor data, customer data, and sales data. With these data, we have done data visualization by created different kind of graphs, charts and dashboard by using ***Tableau***. Image below is one of the dashboard we have created which is the World Map Dashboard with receipt amount transaction with Hotayi by different country.
 
-You can download the whole project in zip file **'hoyat'** that I have uploaded in thie repository to view this project, whole explanation, data source and all graphs, charts and dashboard in *Tableau*. Thank you .
+You can download the whole project in zip file **'Hotayi Data Visualization with Dashboard'** that I have uploaded in thie repository to view this project, whole explanation, data source and all graphs, charts and dashboard in *Tableau*. Thank you .
 
 ![image](https://user-images.githubusercontent.com/89117681/133921335-5493167d-1d37-4eae-a24a-8364bf54f594.png)
