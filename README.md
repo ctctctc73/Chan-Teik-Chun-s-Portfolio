@@ -7,3 +7,5 @@ In this project, I have created a TNB Bill Calculation Form by using Microsoft E
 You can download the whole project in zip file **'TNB BILL CALCULATION FORM'** that I have uploaded in this repository to view this project, whole explanation and different sample case. 
 
 ![image](https://user-images.githubusercontent.com/89117681/133918303-10cd31a7-73c1-4b86-b8cc-6e7bf5ec097e.png)
+
+## Project 2 : Data Visualization of Men's Shoes Prices
