@@ -18,7 +18,7 @@ You can download the whole project in zip file **'MEN'S SHOES PRICES'** that I h
 ## Project 3 : EDA and Case Study about Life Expectancy (Python)
 In this project, my teammates and I have collected the data from kaggle https://www.kaggle.com/kumarajarshi/life-expectancy-who, about Life Expectancy. With these data, we have done Exploratory Data Analysis and Case Study by using ***Python*** in *Google Colab*. Image below is the EDA we have done which is the heatmap that shows the correlation of Life Expectancy and other variables.
 
-You can download the whole project in zip file **'LIFE EXPECTANCY'** that I have uploaded in this repository to view this project, whole explanation, data source and code (python) in *Google Colab*. Thank you . 
+You can download the whole project in zip file **'LIFE EXPECTANCY'** that I have uploaded in this repository to view this project, whole explanation, data source and code (python) in *Google Colab*. You may also click this link in .ipynb "https://colab.research.google.com/drive/15xTuhF9zlQ_p1dnBfLe89MG4UP1Nadzi?authuser=2#scrollTo=Mf2cvU7q_4_J" to view this project. Thank you . 
 
 ![image](https://user-images.githubusercontent.com/89117681/133921095-234cb134-e45c-4082-9fd1-0eeb3d3ce335.png)
 
